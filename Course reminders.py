@@ -4,11 +4,11 @@ import schedule
 import requests
 import json
 
-appID = "wxad3f23507c387e2a"
-appSecret = "c8d3a4f3270878df3ff264dc573c0671"
-openId = "ox8Pt6WurwXDTvSEZHCHdlXgemgc"
-weather_template_id = "faJSXkzZoKJ7qlw7ewY1UoAOVEawhSdii598f4NWv5E"
-timetable_template_id = "-DJmWjO5zwCOE4X4I9W3Aao9GXDG3kFkDCPfFavsDXQ"
+appID = ""
+appSecret = ""
+openId = ""
+weather_template_id = ""
+timetable_template_id = ""
 
 timetable = {
     1: ["课程：智能物联网 地点：3219 时间：8-00", "课程：微信移动应用开发 地点：3113 时间：10-00",
