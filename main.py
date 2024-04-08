@@ -5,12 +5,12 @@ import schedule
 from bs4 import BeautifulSoup
 
 # 从测试号信息获取
-appID = "wxad3f23507c387e2a"
-appSecret = "c8d3a4f3270878df3ff264dc573c0671"
+appID = ""
+appSecret = ""
 #收信人ID即 用户列表中的微信号，见上文
-openId = "ox8Pt6WurwXDTvSEZHCHdlXgemgc"
+openId = ""
 # 天气预报模板ID
-weather_template_id = "faJSXkzZoKJ7qlw7ewY1UoAOVEawhSdii598f4NWv5E"
+weather_template_id = ""
 
 def get_access_token():
     # 获取access token的url
